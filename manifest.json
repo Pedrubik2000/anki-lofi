@@ -1,5 +1,6 @@
 {
   "package": "lofi",
   "name": "Lofi",
-  "human_version": "1.0"
+  "human_version": "1.0.0",
+  "homepage": "https://github.com/Pedrubik2000/anki-lofi"
 }

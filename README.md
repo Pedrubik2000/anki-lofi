@@ -19,7 +19,14 @@ Tested on Anki 26.x (Windows).
 
 ## Install
 
-Copy this folder into your Anki `addons21` folder as `lofi` and restart Anki.
+Download `lofi-<version>.ankiaddon` from [Releases](https://github.com/Pedrubik2000/anki-lofi/releases)
+and double-click it (or Tools > Add-ons > Install from file), then restart Anki.
+Or copy this folder into your Anki `addons21` folder as `lofi`.
+
+## Releasing
+
+`python package.py` builds `dist/lofi-<version>.ankiaddon` locally. Pushing a tag `vX.Y.Z` makes
+GitHub Actions build `lofi-X.Y.Z.ankiaddon` and attach it to a new release.
 
 ## Config
 
