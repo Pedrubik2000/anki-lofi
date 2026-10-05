@@ -1,0 +1,19 @@
+{
+  "shortcuts": {
+    "toggle": "Ctrl+Alt+L",
+    "next": "Ctrl+Alt+N",
+    "volume_up": "Ctrl+Alt+Up",
+    "volume_down": "Ctrl+Alt+Down"
+  },
+  "volume_step": 5,
+  "duck_percent": 20,
+  "duck_fade_ms": 250,
+  "unduck_fade_ms": 800,
+  "unduck_delay_ms": 500,
+  "folder": "",
+  "button": {
+    "label": "Lofi",
+    "playing_label": "Lofi",
+    "playing_style": "text-decoration: underline; text-underline-offset: 4px; font-weight: bold;"
+  }
+}
