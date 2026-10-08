@@ -1,5 +1,7 @@
 # Lofi for Anki
 
+> **No longer maintained (October 2026).** This add-on will not receive updates or fixes. It still works as released; feel free to fork it.
+
 A **Lofi** button in Anki's top toolbar (next to Decks · Add · Browse · Stats · Sync) that plays
 lofi music while you review, inspired by [lowfi](https://github.com/talwat/lowfi) and using its tracklists.
 
